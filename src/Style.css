@@ -1,0 +1,25 @@
+/* Center all contents */
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  /* Set color of h3 tag to blue */
+  h3 {
+    color: blue;
+  }
+  
+  /* Style plus button */
+  button.plus {
+    background-color: green;
+    color: white;
+  }
+  
+  /* Style minus button */
+  button.minus {
+    background-color: red;
+    color: white;
+  }
+  
